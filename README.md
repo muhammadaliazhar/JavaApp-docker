@@ -9,7 +9,7 @@ This is a simple Java project that prints the system date on the screen. We will
 # Step 1
 
 ```bash
-git clone https://github.com/muhammadaliazhar/java-docker.git
+git clone https://github.com/muhammadaliazhar/JavaApp-docker.git
 ```
 
 
