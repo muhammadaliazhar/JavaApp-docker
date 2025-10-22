@@ -32,7 +32,7 @@ docker build -t java-app .
 
 # Step 4 --- Change the source code and create an update docker image
 
-Whenever we do chamges in our application code then we need to update docker image as well
+Whenever we do changes in our application code then we need to update docker image as well
 
 ```bash
 cd src
