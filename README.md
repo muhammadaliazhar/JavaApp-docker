@@ -19,7 +19,8 @@ git clone https://github.com/muhammadaliazhar/JavaApp-docker.git
 docker build -t java-app .
 ```
 
-<img width="906" height="185" alt="image" src="https://github.com/user-attachments/assets/9e452dce-0120-47bf-9abd-f345b234b4b5" />
+<img width="1407" height="317" alt="image" src="https://github.com/user-attachments/assets/986eb305-ae57-4595-87ed-c9fe712ffca7" />
+
 
 # Step 3
 
