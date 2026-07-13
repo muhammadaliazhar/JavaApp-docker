@@ -53,7 +53,8 @@ docker build -t java-app:v1 .
 docker run java-app:v1
 ```
 
-<img width="981" height="194" alt="image" src="https://github.com/user-attachments/assets/4b7274d0-4558-4be4-8003-a10800ea0cec" />
+<img width="1497" height="213" alt="image" src="https://github.com/user-attachments/assets/075791de-754c-4c0f-b998-2da3745ae297" />
+
 
 
 
