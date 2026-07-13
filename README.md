@@ -25,10 +25,11 @@ docker build -t java-app .
 # Step 3
 
 ```bash
-`docker run java-app:latest`
+` docker run --name java-container java-app`
 ```
 
-<img width="1280" height="219" alt="image" src="https://github.com/user-attachments/assets/bfc79b69-2ce8-46a1-ba53-280668617bba" />
+<img width="1573" height="260" alt="image" src="https://github.com/user-attachments/assets/214f64fe-780b-418f-af7c-9546333233f0" />
+
 
 
 # Step 4 --- Change the source code and create an update docker image
