@@ -1,10 +1,10 @@
-FROM openjdk:17-jdk-alpine
+FROM eclipse-temurin:17-jdk-alpine
 
 WORKDIR /app
 
-COPY src/Main.java  /app/Main.java
+COPY .  .
 
-RUN javac Main.java
+RUN javac src/Main.java
 
-CMD ["java", "Main.java"]
+CMD ["java", "Main"]
 
