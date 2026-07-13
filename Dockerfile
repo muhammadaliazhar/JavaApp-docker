@@ -2,9 +2,9 @@ FROM eclipse-temurin:17-jdk-alpine
 
 WORKDIR /app
 
-COPY .  .
+COPY src/Main.java .
 
-RUN javac src/Main.java
+RUN javac Main.java
 
 CMD ["java", "Main"]
 
